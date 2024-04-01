@@ -1,0 +1,255 @@
+{
+  "HH-RLHF_SFT": {
+    "file_name": "HH-RLHF/SFT/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "HH-RLHF_DPO": {
+    "file_name": "HH-RLHF/DPO/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "HH-RLHF_Self-Contrast_1": {
+    "file_name": "HH-RLHF/Self-Contrast_1/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "HH-RLHF_Self-Contrast_2": {
+    "file_name": "HH-RLHF/Self-Contrast_2/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "HH-RLHF_Self-Contrast_4": {
+    "file_name": "HH-RLHF/Self-Contrast_4/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "HH-RLHF_Self-Contrast_8": {
+    "file_name": "HH-RLHF/Self-Contrast_8/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "HH-RLHF_Self-Contrast_16": {
+    "file_name": "HH-RLHF/Self-Contrast_16/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "HH-RLHF_SPIN": {
+    "file_name": "HH-RLHF/SPIN/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "UltraChat_DPO": {
+    "file_name": "UltraChat/DPO/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "UltraChat_Self-Contrast_1": {
+    "file_name": "UltraChat/Self-Contrast_1/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "UltraChat_Self-Contrast_2": {
+    "file_name": "UltraChat/Self-Contrast_2/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "UltraChat_Self-Contrast_4": {
+    "file_name": "UltraChat/Self-Contrast_4/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "UltraChat_Self-Contrast_8": {
+    "file_name": "UltraChat/Self-Contrast_8/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "UltraChat_Self-Contrast_16": {
+    "file_name": "UltraChat/Self-Contrast_16/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "UltraChat_SPIN": {
+    "file_name": "UltraChat/SPIN/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "Nectar_SFT": {
+    "file_name": "Nectar/SFT/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "Nectar_DPO": {
+    "file_name": "Nectar/DPO/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "Nectar_Self-Contrast_1": {
+    "file_name": "Nectar/Self-Contrast_1/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "Nectar_Self-Contrast_2": {
+    "file_name": "Nectar/Self-Contrast_2/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "Nectar_Self-Contrast_4": {
+    "file_name": "Nectar/Self-Contrast_4/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "Nectar_Self-Contrast_8": {
+    "file_name": "Nectar/Self-Contrast_8/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "Nectar_Self-Contrast_16": {
+    "file_name": "Nectar/Self-Contrast_16/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  },
+  "Nectar_SPIN": {
+    "file_name": "Nectar/SPIN/",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    },
+    "ranking": true
+  }
+}
