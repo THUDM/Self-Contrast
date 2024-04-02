@@ -1,9 +1,9 @@
 # Self-Contrast
 
-### Never Enough Self-Generated Negatives for Feedback-Free LLM Alignment
+### Extensive Self-Contrast Enables Feedback-Free Language Model Alignment
 
 <p align="center">
-   🤗 <a href="#model" target="_blank">Model</a> • 📚 <a href="#data" target="_blank">Data</a> • 📃 <a href="https://arxiv.org/" target="_blank">Paper</a>
+   🤗 <a href="#model" target="_blank">Model</a> • 📚 <a href="#data" target="_blank">Data</a> • 📃 <a href="https://arxiv.org/abs/2404.00604" target="_blank">Paper</a>
 </p>
 
 <div align="center">
@@ -219,5 +219,12 @@ python src/draw_figures.py
 
 ## Citation
 ```
-
+@misc{liu2024extensive,
+      title={Extensive Self-Contrast Enables Feedback-Free Language Model Alignment}, 
+      author={Xiao Liu and Xixuan Song and Yuxiao Dong and Jie Tang},
+      year={2024},
+      eprint={2404.00604},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
